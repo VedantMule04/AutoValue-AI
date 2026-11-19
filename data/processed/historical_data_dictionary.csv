@@ -1,0 +1,14 @@
+Column,Data Type,Non-Missing Values,Missing Values,Unique Values
+name,str,8128,0,2058
+year,int64,8128,0,29
+selling_price,int64,8128,0,677
+km_driven,int64,8128,0,921
+fuel,str,8128,0,4
+seller_type,str,8128,0,3
+transmission,str,8128,0,2
+owner,str,8128,0,5
+mileage,str,7907,221,393
+engine,str,7907,221,121
+max_power,str,7913,215,322
+torque,str,7906,222,441
+seats,float64,7907,221,9

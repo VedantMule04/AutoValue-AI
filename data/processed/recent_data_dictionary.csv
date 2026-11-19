@@ -1,0 +1,26 @@
+Column,Data Type,Non-Missing Values,Missing Values,Unique Values
+source,str,1417,0,2
+source_id,str,1417,0,1417
+sku_id,str,1417,0,1417
+listing_url,str,1417,0,1417
+city_id,int64,1417,0,15
+city_name,str,1417,0,14
+locality,str,1417,0,180
+make,str,1417,0,11
+model,str,1417,0,228
+variant,str,1417,0,719
+central_variant_id,int64,1417,0,795
+model_year,int64,1417,0,19
+price_inr,int64,1417,0,827
+km,int64,1417,0,1059
+fuel_type,str,1417,0,8
+transmission,str,1417,0,9
+body_type,str,40,1377,5
+owners,int64,1417,0,6
+owner_slug,str,40,1377,4
+seller_type,float64,1377,40,2
+seller_name,str,1417,0,218
+image_url,str,1412,5,1412
+gmap_link,str,40,1377,28
+price_date,str,1417,0,1
+fetched_at,str,1417,0,1417
